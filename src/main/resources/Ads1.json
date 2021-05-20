@@ -1,0 +1,34 @@
+{
+  "AdSegmentations": [
+      {
+        "AdSegmentation": {
+          "AdId"        : 1, 
+          "AdScore"     : 10,
+          "AdViews"     : 1000,
+          "AdBgURL"     : "http://www.xxx.com.br/ad/1", 
+          "AdTitle"     : "Anuncio Audi Dia Das Mães", 
+          "AdType"      : "?????",
+          "AdDesc"      : "Anúncio da Audi",
+          "ThankBG"     : "?????", 
+          "ThankTitle"  : "?????", 
+          "ThankDesc"   : "?????", 
+          "ThankCTAType": "callme", 
+          "CTAName"     : "??????" 
+        }, 
+        "AdSegmentation": {
+          "AdId"        : 2, 
+          "AdScore"     : 9,
+          "AdViews"     : 2000,
+          "AdBgURL"     : "http://www.xxx.com.br/ad/2", 
+          "AdTitle"     : "Anuncio Audi Dia dos pais", 
+          "AdType"      : "?????",
+          "AdDesc"      : "Anúncio da BMw",
+          "ThankBG"     : "?????", 
+          "ThankTitle"  : "?????", 
+          "ThankDesc"   : "?????", 
+          "ThankCTAType": "urllink", 
+          "CTAName"     : "??????"
+        }
+      }
+  ]
+}
