@@ -1,0 +1,76 @@
+			{
+  "AdSegmentations": [
+      {
+        "AdSegmentation": {
+          "AdId"        : 1, 
+          "AdScore"     : 10,
+          "AdViews"     : 1000,
+          "AdBgURL"     : "http://www.xxx.com.br/ad/1", 
+          "AdTitle"     : "Anuncio Audi Dia Das Mães", 
+          "AdType"      : "?????",
+          "AdDesc"      : "Anúncio da Audi",
+          "ThankBG"     : "?????", 
+          "ThankTitle"  : "?????", 
+          "ThankDesc"   : "?????", 
+          "ThankCTAType": "callme", 
+          "CTAName"     : "??????" 
+        }, 
+        "AdSegmentation": {
+          "AdId"        : 2, 
+          "AdScore"     : 9,
+          "AdViews"     : 2000,
+          "AdBgURL"     : "http://www.xxx.com.br/ad/2", 
+          "AdTitle"     : "Anuncio Audi Dia dos pais", 
+          "AdType"      : "?????",
+          "AdDesc"      : "Anúncio da BMw",
+          "ThankBG"     : "?????", 
+          "ThankTitle"  : "?????", 
+          "ThankDesc"   : "?????", 
+          "ThankCTAType": "urllink", 
+          "CTAName"     : "??????"
+        }, 
+        "AdSegmentation": {
+          "AdId"        : 3, 
+          "AdScore"     : 8,
+          "AdViews"     : 900,
+          "AdBgURL"     : "http://www.xxx.com.br/ad/3", 
+          "AdTitle"     : "Anuncio Audi Dia das criançãs", 
+          "AdType"      : "?????",
+          "AdDesc"      : "Anúncio da Caloi",
+          "ThankBG"     : "?????", 
+          "ThankTitle"  : "?????", 
+          "ThankDesc"   : "?????", 
+          "ThankCTAType": "SharingID", 
+          "CTAName"     : "??????" 
+        }, 
+        "AdSegmentation": {
+          "AdId"        : 4, 
+          "AdScore"     : 7,
+          "AdViews"     : 30,
+          "AdBgURL"     : "http://www.xxx.com.br/ad/4", 
+          "AdTitle"     : "Anuncio de Natal", 
+          "AdType"      : "?????",
+          "AdDesc"      : "Anúncio do Governo",
+          "ThankBG"     : "?????", 
+          "ThankTitle"  : "?????", 
+          "ThankDesc"   : "?????", 
+          "ThankCTAType": "research", 
+          "CTAName"     : "??????" 
+        }, 
+        "AdSegmentation": {
+          "AdId"        : 5, 
+          "AdScore"     : 6,
+          "AdViews"     : 340,
+          "AdBgURL"     : "http://www.xxx.com.br/ad/5", 
+          "AdTitle"     : "Anuncio Federal", 
+          "AdType"      : "?????",
+          "AdDesc"      : "Anúncio Doação",
+          "ThankBG"     : "?????", 
+          "ThankTitle"  : "?????", 
+          "ThankDesc"   : "?????", 
+          "ThankCTAType": "scheduled", 
+          "CTAName"     : "??????" 
+        }
+      }
+  ]
+}
