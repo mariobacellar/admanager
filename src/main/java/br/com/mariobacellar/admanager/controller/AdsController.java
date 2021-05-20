@@ -23,7 +23,7 @@ public class AdsController {
 				+ "\"resources\":["						
 				+     			"{"	
 				+ 					"\"Advertisement\":\" Advertisement management\","
-				+ 					"\"URL\":\"https://admanager.herokuapp.com/api/admanager/ads \""
+				+ 					"\"URL\":\"https://macro-admanager.herokuapp.com/api/admanager/ads \""
 				+ 				"}"
 				+ 			"]" 
 				+"}";
